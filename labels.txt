@@ -1,0 +1,10 @@
+0 Toyota Vios
+1 Mitsubishi Mirage
+2 Honda City
+3 Toyota Fortuner
+4 Honda Civic
+5 Toyota Innova
+6 Toyota Avanza
+7 Suzuki Ertiga
+8 Ford Ranger
+9 Nissan Almera
